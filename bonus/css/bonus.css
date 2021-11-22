@@ -1,0 +1,25 @@
+.box{
+    background-color: #fff ;
+    height: 50px;
+    
+}
+
+.container{
+    border: 27px solid black
+}
+
+.black{
+    background-color: rgba(0, 0, 0, 0.911);
+}
+
+.gray{
+    background-color: rgb(51, 44, 44);
+}
+
+.green{
+    background-color: rgb(14, 116, 14);
+}
+
+.yellow{
+    background-color: rgb(168, 168, 12);
+}
