@@ -1,0 +1,28 @@
+.container{
+    width: 1600px;
+}
+
+.box{
+    background-color: cadetblue;
+    height: 50px;
+    text-align: center;
+    border: 1px solid #fff;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nested{
+    background-color: rgba(50, 197, 45, 0.705);
+    color: #fff;
+    border: 1px solid cadetblue;
+    text-align: center;
+    padding: 6px 8px;
+    margin: 0px 1px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
